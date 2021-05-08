@@ -1,5 +1,0 @@
-message.welcome = Привет!!!
-message.question = Как дела?
-message.info = Меня зовут:
-user.first_name = Иван
-user.last_name = Каминский

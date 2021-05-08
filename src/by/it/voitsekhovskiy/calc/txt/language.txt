@@ -1,2 +1,0 @@
-exception.notSameSizeMatrix=not same size of matrix!
-exception.divisionByZero=division by zero!

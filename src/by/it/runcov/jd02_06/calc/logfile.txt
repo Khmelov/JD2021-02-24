@@ -1,6 +1,0 @@
-4.0
-16.0
-25.0
-30.0
-750.0
-ERROR:division by zero

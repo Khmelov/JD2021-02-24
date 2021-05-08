@@ -1,2 +1,0 @@
-exception.notSameSizeMatrix=памер матрыц не супадае!
-exception.divisionByZero=дзяленне на ноль!

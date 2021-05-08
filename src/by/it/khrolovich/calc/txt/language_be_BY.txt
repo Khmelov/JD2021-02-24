@@ -1,9 +1,0 @@
-Message.operation = Аперацыя
-Message.isImpossible = не магчыма
-Message.divisionByZero = дзяленнне на нуль
-Message.ERROR = ПАМЫЛКА
-Message.noSave = не захавалася
-Message.UnknownOperation = невядомая аперацыя
-Message.UnknownVariable = невядомая пераменная
-Message.IncorrectSize = памылковы памер
-Message.SaveToFile = захаванне ў файл

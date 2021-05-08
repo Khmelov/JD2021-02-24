@@ -1,2 +1,0 @@
-welcome.message = Вiтаю! Маё iмя - Аляксей Караткевiч.
-welcome.date = Сёння: 

@@ -1,2 +1,0 @@
-welcome.message = Welcome! My name is Alexey Korotkevich.
-welcome.date = Current date is:

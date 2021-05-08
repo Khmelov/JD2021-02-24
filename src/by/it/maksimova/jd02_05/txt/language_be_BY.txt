@@ -1,5 +1,0 @@
-messages.welcome=Прывітанне!
-messages.question=Як справы?
-user.name=Наталля
-user.lastname=Максімава
-
